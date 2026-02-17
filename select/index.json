@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "The Fog",
+  "base_artist": "和ぬか",
+  "createdAt": "2026-02-17T07:59:20.296514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In The Fog",
+      "artist": "Azure Ray",
+      "has_synced": true,
+      "path": "select/01_In_The_Fog_Azure_Ray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shot Through the Fog",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/02_Shot_Through_the_Fog_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Fog Rose High",
+      "artist": "Craft Spells",
+      "has_synced": true,
+      "path": "select/03_The_Fog_Rose_High_Craft_Spells.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Fog of the World",
+      "artist": "Death In June",
+      "has_synced": true,
+      "path": "select/04_The_Fog_of_the_World_Death_In_June.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Fog of the World (Remastered)",
+      "artist": "Death in June",
+      "has_synced": true,
+      "path": "select/05_The_Fog_of_the_World_(Remastered)_Death_in_June.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Her Ghost in the Fog",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/06_Her_Ghost_in_the_Fog_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Out of the Fog",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/07_Out_of_the_Fog_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Fog",
+      "artist": "Kate Bush",
+      "has_synced": true,
+      "path": "select/08_The_Fog_Kate_Bush.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When The Fog Rolls In",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/09_When_The_Fog_Rolls_In_Train.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Out of the Fog",
+      "artist": "Erin McCarley",
+      "has_synced": true,
+      "path": "select/10_Out_of_the_Fog_Erin_McCarley.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Black Damask (The Fog)",
+      "artist": "Motionless In White",
+      "has_synced": false,
+      "path": "select/11_Black_Damask_(The_Fog)_Motionless_In_White.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Fog of Writing",
+      "artist": "Barenaked Ladies",
+      "has_synced": false,
+      "path": "select/12_The_Fog_of_Writing_Barenaked_Ladies.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jump Into The Fog",
+      "artist": "The Wombats",
+      "has_synced": true,
+      "path": "select/13_Jump_Into_The_Fog_The_Wombats.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Fog",
+      "artist": "和ぬか",
+      "has_synced": false,
+      "path": "select/pl_01_The_Fog_和ぬか.txt"
+    }
+  ]
+}
